@@ -1,6 +1,7 @@
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
+import java.io.*;
 
 public interface ClientInterface extends Remote{
 
