@@ -98,5 +98,8 @@ References:
 ¬	https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/hello/hello-world.html#define
 ¬	http://www.slideshare.net/junyuo/a-short-java-rmi-tutorial
 
+In general 
+Stackoverflow.com
+
 
 	
